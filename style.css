@@ -1,0 +1,17 @@
+.ficheIdentite {
+    height: 300px;
+    width: 280px;
+    background-color: indianred;
+    margin: auto;
+    padding: 10px;
+}
+
+th {
+    color: darkviolet;
+    background-color: azure;
+}
+
+td:not(.photo){
+    color: plum;
+    background-color: darkcyan;
+}
